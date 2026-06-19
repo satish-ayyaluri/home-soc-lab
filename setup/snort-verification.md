@@ -57,6 +57,18 @@ ping 10.88.211.15
 * RX Bytes Received: 20,426
 * Packet statistics confirmed that traffic generated from the attacker machine was successfully observed and processed by Snort.
 
+## Observed Traffic Statistics
+
+| Protocol | Packets |
+| -------- | ------- |
+| ARP      | 22      |
+| ICMPv4   | 84      |
+| ICMPv6   | 28      |
+| IGMP     | 13      |
+| IPv4     | 131     |
+| IPv6     | 72      |
+| UDP      | 78      |
+
 ## Troubleshooting
 
 During the initial setup, Snort was not displaying packet information because of network configuration issues within VirtualBox. After switching to Bridged Adapter mode and verifying the correct interface (`wlan0`), packet capture was successfully validated.
