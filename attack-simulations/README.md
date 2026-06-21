@@ -4,6 +4,7 @@
 - [x] Snort 3 Installation
 - [x] Packet Capture Verification
 - [x] ICMP Detection Rule
-- [ ] Port Scan Detection
-- [ ] Splunk Integration
+- [x] Port Scan Detection
+- [ ] Splunk Installation
+- [ ] Log Forwarding
 - [ ] SOC Dashboard
