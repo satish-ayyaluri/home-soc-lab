@@ -87,10 +87,9 @@ alert icmp any any -> $HOME_NET any (msg:"ICMP Ping Detected"; sid:1000001; rev:
 
 # 📊 SOC Dashboard
 
-![SOC Dashboard](/screenshots
-/soc-dashboard.jpeg)
+![SOC Dashboard](/screenshots/soc-dashboard.jpeg)
 
-> Upload your dashboard screenshot inside an **images** folder and replace the filename if needed.
+
 
 ```markdown
 ![SOC Dashboard](images/soc-dashboard.png)
