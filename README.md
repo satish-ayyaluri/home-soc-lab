@@ -143,4 +143,4 @@ Successfully designed and implemented an end-to-end Home Security Operations Cen
 
 **Ayyaluri Satish Kumar Reddy**
 
-Aspiring SOC Analyst | Cybersecurity Enthusiast | Python Learner | Google Cybersecurity Professional Certificate | SC-900 Aspirant
+Aspiring SOC Analyst | Cybersecurity Enthusiast | Python Learner | Google Cybersecurity Professional Certificate 
